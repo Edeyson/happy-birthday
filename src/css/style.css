@@ -1,10 +1,18 @@
 .happy {
-    background-image: url(../img/fondo.jpg);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100vh;
-    background-size: cover;
+    
 }
 .happy img{
     object-fit: cover;
 }
+
+/* .modall:hover{
+    position: fixed;
+    justify-content: center;
+    z-index: 3;
+    top: 10%;
+    left: 40%;
+}
+
+.fila .modall:hover ~ .fila{
+    filter: brightness(0.5);
+} */
